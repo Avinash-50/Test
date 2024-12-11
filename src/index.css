@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Ensure the swiper pagination is yellow */
+.swiper-pagination-bullet {
+    background-color: #cc0221 !important;
+    bottom: 30px;
+}
+
+/* Adjust the swiper pagination when active */
+.swiper-pagination-bullet-active {
+    background-color: #cc0221 !important;
+}
+

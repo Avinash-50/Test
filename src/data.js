@@ -32,7 +32,7 @@ const reviews = [
     name: "ANDREW RUSSELL",
     job: "UI DESIGNER",
     image: "https://preview.codeduplex.com/hubfs/Marketplace/Themes/Agency%20Starter/man-g6255db666_640.webp",
-    text: "Janen The standard chunk of Lorem Ipsum used since reproduced below for those interested awesome design i love it so much for being awesome and great.",
+    text: "Janen The standard chunk of Lorem Ipsum used since reproduced below for those interested awesome design i love it so much for being awesome and great."
   },
 ];
 

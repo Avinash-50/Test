@@ -24,7 +24,7 @@ const Testimonials = ({ reviews }) => {
                 }}
                 pagination={{ clickable: true }}
                 grabCursor={true}
-                className="w-full max-w-4xl"
+                className="w-full max-w-[1100px]"
             >
                 {reviews.map((review, index) => (
                     <SwiperSlide key={index}>
